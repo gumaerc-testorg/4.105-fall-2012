@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding thickened plane + the explosion.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/f09958af9d09e2ef6306d21908b8522d_MIT4_105F12_Pres_Ex3_LZ.pdf
+file: /media/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/f09958af9d09e2ef6306d21908b8522d_MIT4_105F12_Pres_Ex3_LZ.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Exercise 3: Presentation from Luisel Zayas-San-Miguel'
 uid: f09958af-9d09-e2ef-6306-d21908b8522d
