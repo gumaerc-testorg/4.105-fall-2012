@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb5f9d52-3e26-f2a6-22f7-28050421f5a7
 resourcetype: Document
 title: 'Exercise 3: Thickened Plane + the Explosion'
 uid: e07fcb22-fbcf-2432-9fc8-1b8194329699

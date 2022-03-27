@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Image
 title: Thumbnail_Ex8_LZ.jpg
 uid: 0dccc6ab-ea7b-74f9-3bcd-24bc178c3e66

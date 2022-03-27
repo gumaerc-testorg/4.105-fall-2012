@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Document
 title: 'Exercise 6: Presentation from Austin W. Smith'
 uid: 4d9614c7-fc2c-264a-6878-0aadabe66a97

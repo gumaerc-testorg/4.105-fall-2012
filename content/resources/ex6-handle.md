@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb5f9d52-3e26-f2a6-22f7-28050421f5a7
 resourcetype: Other
 title: ex6-handle.3dm
 uid: 78a22102-0dc9-604e-6608-d57f2a6b6fd0

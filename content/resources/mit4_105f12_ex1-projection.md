@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb5f9d52-3e26-f2a6-22f7-28050421f5a7
 resourcetype: Document
 title: 'Exercise 1: Projections of Oblique Planes'
 uid: 4f0c9b93-cb8b-f411-4de3-97661687d20c

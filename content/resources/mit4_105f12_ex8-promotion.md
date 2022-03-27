@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb5f9d52-3e26-f2a6-22f7-28050421f5a7
 resourcetype: Document
 title: 'Exercise 8: Promotion and Publication'
 uid: b0641686-cd77-f8b9-1fe6-b34bce6bbd9b

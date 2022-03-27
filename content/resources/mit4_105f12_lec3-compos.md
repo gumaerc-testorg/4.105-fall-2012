@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f23c7a77-5874-8d3c-7dcd-e8c87d37110c
 resourcetype: Document
 title: 'Lecture 3: Composites, Conventions, Axonometrics'
 uid: 6948210c-b219-067c-6a37-aaab0a89f308

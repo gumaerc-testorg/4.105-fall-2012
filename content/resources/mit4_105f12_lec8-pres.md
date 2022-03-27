@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f23c7a77-5874-8d3c-7dcd-e8c87d37110c
 resourcetype: Document
 title: ' Lecture 8: Presentation and Publication'
 uid: a45d912b-9244-93f1-12b2-2352bf53c8cd

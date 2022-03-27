@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Document
 title: 'Exercise 3: Presentation from Luisel Zayas-San-Miguel'
 uid: f09958af-9d09-e2ef-6306-d21908b8522d

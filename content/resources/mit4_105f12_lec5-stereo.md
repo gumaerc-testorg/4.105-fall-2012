@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f23c7a77-5874-8d3c-7dcd-e8c87d37110c
 resourcetype: Document
 title: 'Lecture 5: Stereotomy and Developability'
 uid: de4a342b-b10e-21d0-6e4e-9e630ec06a14

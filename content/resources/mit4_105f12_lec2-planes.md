@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f23c7a77-5874-8d3c-7dcd-e8c87d37110c
 resourcetype: Document
 title: 'Lecture 2: Planes, Planes, Planes'
 uid: 07680657-3ce2-1f99-78ad-fe5d8076d26c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Document
 title: 'Exercise 3: Axonometric from Austin W. Smith'
 uid: aa88d9d1-fc44-64c9-26ef-d5959856f2cf

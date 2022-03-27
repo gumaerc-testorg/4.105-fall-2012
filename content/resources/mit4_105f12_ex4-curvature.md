@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb5f9d52-3e26-f2a6-22f7-28050421f5a7
 resourcetype: Document
 title: 'Exercise 4: Curvature'
 uid: d45deaa1-f591-487d-5982-8e774120d709

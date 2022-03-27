@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb5f9d52-3e26-f2a6-22f7-28050421f5a7
 resourcetype: Document
 title: 'Exercise 7: The Figure and Configure'
 uid: a3783048-717e-5d92-3e0e-a46b1f6e9277

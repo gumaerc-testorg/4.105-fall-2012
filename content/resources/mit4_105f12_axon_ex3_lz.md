@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Document
 title: Exercise 3 Axonometric from Luisel Zayas-San-Miguel
 uid: 6cbe4ea7-49f1-78d7-0e48-e0cccd6b5d03
