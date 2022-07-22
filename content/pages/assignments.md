@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: bb5f9d52-3e26-f2a6-22f7-28050421f5a7
 ---
@@ -94,7 +97,7 @@ Measuring and Prototyping
 
 Examples of a form requiring body measurement:
 
-[Rhino® Model: Handle (3DM)]({{< baseurl >}}/resources/ex6-handle)
+[Rhino{{< sup "®" >}} Model: Handle (3DM)]({{< baseurl >}}/resources/ex6-handle)
 
 [Screenshot of Handle (JPG)]({{< baseurl >}}/resources/ex6-handle-1)
 
@@ -114,7 +117,7 @@ Examples of a form requiring body measurement:
 
 Example of a predetermined figure provided to students:
 
-[Rhino® Model: Figure (3DM - 3.7MB)]({{< baseurl >}}/resources/ex7-figure)
+[Rhino{{< sup "®" >}} Model: Figure (3DM - 3.7MB)]({{< baseurl >}}/resources/ex7-figure)
 
 [Screenshot of Figure (JPG)]({{< baseurl >}}/resources/ex7-figure-1)
 

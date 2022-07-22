@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 ---
@@ -41,7 +44,7 @@ Intersecting two geometrically similar volumes as part of a series of steps for 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Thickened Plane + The Explosion
 {{< tdclose >}}
 {{< tdopen >}}
@@ -88,7 +91,7 @@ saddle produced by casting.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 The Figure and Configure
 {{< tdclose >}}
 {{< tdopen >}}
@@ -170,7 +173,7 @@ DOCUMENTATION
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Thickened Plane + The Explosion
 {{< tdclose >}}
 {{< tdopen >}}

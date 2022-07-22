@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Exercise 7 Video: Construction Process'
 uid: 92c63b9c-a662-8a79-4339-a100f3f0ece9
 video_files:
