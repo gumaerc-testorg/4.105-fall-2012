@@ -2,7 +2,7 @@
 content_type: resource
 description: Closing a figure with planar surfaces as part of a series of steps for
   a drawing. Courtesy of Luisel Zayas-San-Miguel. Used with permission.
-file: /media/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/fc8ecbf89e0fa6873010d2764c29f9ea_Thumbnail_Ex3_LZ.JPG
+file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/fc8ecbf89e0fa6873010d2764c29f9ea_Thumbnail_Ex3_LZ.JPG
 file_type: image/jpeg
 image_metadata:
   caption: Closing a figure with planar surfaces as part of a series of steps for
@@ -12,6 +12,7 @@ image_metadata:
     with angles marked.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -20,3 +21,4 @@ resourcetype: Image
 title: Thumbnail_Ex3_LZ.JPG
 uid: fc8ecbf8-9e0f-a687-3010-d2764c29f9ea
 ---
+Closing a figure with planar surfaces as part of a series of steps for a drawing. Courtesy of Luisel Zayas-San-Miguel. Used with permission.
