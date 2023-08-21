@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The section provides a list of suggested readings for the course, organized
+  by use in technique and in discourse.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

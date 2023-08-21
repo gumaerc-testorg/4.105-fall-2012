@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features selected student works that were submitted for
+  the class assignments.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -32,10 +34,10 @@ DOCUMENTATION
 Planes
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 2 Presentation (PDF)]({{< baseurl >}}/resources/mit4_105f12_pres_ex2_lz)
+{{% resource_link "3a1db94c-80d4-5013-e000-851d4c3f15f1" "Exercise 2 Presentation (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Perspective drawing of two intersecting volumes.]({{< resource_file 1250eefe-34c1-0e14-2f20-c746e41e5524 >}})
+{{< resource 1250eefe-34c1-0e14-2f20-c746e41e5524 >}}
 
 Intersecting two geometrically similar volumes as part of a series of steps for a drawing.
 
@@ -48,10 +50,10 @@ Intersecting two geometrically similar volumes as part of a series of steps for 
 Thickened Plane + The Explosion
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 3 Presentation (PDF)]({{< baseurl >}}/resources/mit4_105f12_pres_ex3_lz)
+{{% resource_link "f09958af-9d09-e2ef-6306-d21908b8522d" "Exercise 3 Presentation (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Perspective drawing of several planes in an almost closed-plane object with angles marked.]({{< resource_file fc8ecbf8-9e0f-a687-3010-d2764c29f9ea >}})
+{{< resource fc8ecbf8-9e0f-a687-3010-d2764c29f9ea >}}
 
 Closing a figure with planar surfaces  
 as part of a series of steps for a drawing.
@@ -62,10 +64,10 @@ as part of a series of steps for a drawing.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 3 Axonometric (PDF)]({{< baseurl >}}/resources/mit4_105f12_axon_ex3_lz)
+{{% resource_link "6cbe4ea7-49f1-78d7-0e48-e0cccd6b5d03" "Exercise 3 Axonometric (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Drawing of many planes and projection lines.]({{< resource_file b85b840c-6721-97b2-0264-1b0d0cc2ea13 >}})
+{{< resource b85b840c-6721-97b2-0264-1b0d0cc2ea13 >}}
 
 Exploded axonometric drawing of a figure.
 
@@ -78,10 +80,10 @@ Exploded axonometric drawing of a figure.
 Measuring and Prototyping
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 6 Presentation: Bike Saddle (PDF - 4.0MB)]({{< baseurl >}}/resources/mit4_105f12_pres_ex6_lz)
+{{% resource_link "be0a596e-b660-2598-f8d2-2bbb5430f927" "Exercise 6 Presentation: Bike Saddle (PDF - 4.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Photograph of two white halves of a bike saddle mold.]({{< resource_file 1ac2a22c-d60d-3177-7145-bbef3982dc4d >}})
+{{< resource 1ac2a22c-d60d-3177-7145-bbef3982dc4d >}}
 
 Fabrication of a model of a bike  
 saddle produced by casting.
@@ -95,10 +97,10 @@ saddle produced by casting.
 The Figure and Configure
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 7 Presentation: Inflation (PDF - 2.9MB)]({{< baseurl >}}/resources/mit4_105f12_pres_ex7_lz)
+{{% resource_link "ae3b6b65-80de-39c7-c704-deed804d0491" "Exercise 7 Presentation: Inflation (PDF - 2.9MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Rendering of black abstract figure with bubble-like bulges.]({{< resource_file ed9ec666-6da0-0ac9-b050-1e4f8e27110e >}})
+{{< resource ed9ec666-6da0-0ac9-b050-1e4f8e27110e >}}
 
 Rendering of a figure with discretized, inflated units.
 
@@ -108,10 +110,10 @@ Rendering of a figure with discretized, inflated units.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exercise 7 Video: Inflation of Discretized Units]({{< baseurl >}}/resources/exercise-7-video-inflation-of-discretized-units)
+{{% resource_link 37930e14-299c-238e-f966-7d294207cc33 "Exercise 7 Video: Inflation of Discretized Units" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Screenshot of an abstract figure with discretized bulges on the left half.]({{< resource_file 4f95c398-2392-2bd4-c087-dd5dff385713 >}})
+{{< resource 4f95c398-2392-2bd4-c087-dd5dff385713 >}}
 
 Model demonstrating inflation of the discretized  
 units based on air pressure.
@@ -122,10 +124,10 @@ units based on air pressure.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exercise 7 Video: Construction Process]({{< baseurl >}}/resources/exercise-7-video-construction-process)
+{{% resource_link 92c63b9c-a662-8a79-4339-a100f3f0ece9 "Exercise 7 Video: Construction Process" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Screenshot of curved grid lines defining a bulging surface.]({{< resource_file 58e1ce20-4714-c4b1-4c8b-236262c446ad >}})
+{{< resource 58e1ce20-4714-c4b1-4c8b-236262c446ad >}}
 
 SketchUp model demonstrating the construction  
 process and inflatability.
@@ -139,10 +141,10 @@ process and inflatability.
 Promotion and Publication
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 8 Presentation: Inflatable Bike Saddle (PDF - 6.8MB)]({{< baseurl >}}/resources/mit4_105f12_pres_ex8_lz)
+{{% resource_link "ad20cbf7-5ec3-be7b-9011-11a14ecce41f" "Exercise 8 Presentation: Inflatable Bike Saddle (PDF - 6.8MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Rendering of the neon green cushion of a bike seat.]({{< resource_file 0dccc6ab-ea7b-74f9-3bcd-24bc178c3e66 >}})
+{{< resource 0dccc6ab-ea7b-74f9-3bcd-24bc178c3e66 >}}
 
 Rendering of inflatable bike saddle, an  
 extension of Exercise 7 and 8.
@@ -177,10 +179,10 @@ DOCUMENTATION
 Thickened Plane + The Explosion
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 3 Presentation: Dihedral Spike-Ball (PDF)]({{< baseurl >}}/resources/mit4_105f12_pres_ex3_as)
+{{% resource_link "63723a2c-b108-1847-3ac7-d6a28eacccd6" "Exercise 3 Presentation: Dihedral Spike-Ball (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Photograph of a cut and scored metal sheet.]({{< resource_file 494ccbca-456b-ba1b-9756-769b6e29f3b0 >}})
+{{< resource 494ccbca-456b-ba1b-9756-769b6e29f3b0 >}}
 
 Model in progress of the drawn figure.
 
@@ -190,10 +192,10 @@ Model in progress of the drawn figure.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 3 Axonometric: Dihedral Spike-Ball (PDF)]({{< baseurl >}}/resources/mit4_105f12_axon_ex3_as)
+{{% resource_link "aa88d9d1-fc44-64c9-26ef-d5959856f2cf" "Exercise 3 Axonometric: Dihedral Spike-Ball (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Drawing of a polygonal all-like figure with faces called out by projection lines.]({{< resource_file 41ac2824-7c9f-4a8c-da75-b1da4be7e8a9 >}})
+{{< resource 41ac2824-7c9f-4a8c-da75-b1da4be7e8a9 >}}
 
 Exploded axonometric drawing of a figure.
 
@@ -206,10 +208,10 @@ Exploded axonometric drawing of a figure.
 Solid and Surface
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 5 Presentation: Topple (PDF)]({{< baseurl >}}/resources/mit4_105f12_pres_ex5_as)
+{{% resource_link "f7cb32da-fe33-f482-739b-7e93e6464d04" "Exercise 5 Presentation: Topple (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Two series of rotated lines that represent a closed vase-like figure.]({{< resource_file 4ce07adc-0557-46df-0f66-24a90900eafc >}})
+{{< resource 4ce07adc-0557-46df-0f66-24a90900eafc >}}
 
 Drawing of several lines to define a ruled surface.
 
@@ -222,10 +224,10 @@ Drawing of several lines to define a ruled surface.
 Measuring and Prototyping
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 6 Presentation (PDF - 2.0MB)]({{< baseurl >}}/resources/mit4_105f12_pres_ex6_as)
+{{% resource_link "4d9614c7-fc2c-264a-6878-0aadabe66a97" "Exercise 6 Presentation (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Image of a face with a triangulated and meshed figure over the left half.]({{< resource_file 96676f6c-a780-cf74-4eff-9b2efa031a6f >}})
+{{< resource 96676f6c-a780-cf74-4eff-9b2efa031a6f >}}
 
 Drawing of facial application preceding fabrication.
 
@@ -238,10 +240,10 @@ Drawing of facial application preceding fabrication.
 The Figure and Configure
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 7 Presentation: Surface Tension (PDF - 3.0MB)]({{< baseurl >}}/resources/mit4_105f12_pres_ex7_as)
+{{% resource_link "0d68762c-2994-78d8-f2d4-477132432420" "Exercise 7 Presentation: Surface Tension (PDF - 3.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Repeated pattern of triangulated and arched connections.]({{< resource_file c937ae4f-8bd2-f372-ac33-b6e0a4c0eb53 >}})
+{{< resource c937ae4f-8bd2-f372-ac33-b6e0a4c0eb53 >}}
 
 Rendering of discretized units governed  
 by surface tension.
@@ -255,10 +257,10 @@ by surface tension.
 Promotion and Publication
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exercise 8 Presentation (PDF - 1.7MB)]({{< baseurl >}}/resources/mit4_105f12_pres_ex8_as)
+{{% resource_link "d69d115e-4bc0-3165-cb70-e3a0313064d7" "Exercise 8 Presentation (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Rendering of white arcs, green surface connections, and orange intersections over a figure.]({{< resource_file 6a3fb02a-4122-1ab4-0367-bfb88d6ece34 >}})
+{{< resource 6a3fb02a-4122-1ab4-0367-bfb88d6ece34 >}}
 
 Rendering of closed and curved surface,  
 an extension of Exercise 7.
