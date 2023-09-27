@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and the lectures
+  slides associated with each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Introduction (PDF - 14.1MB)](/ans7870/4/4.105/f12/MIT4_105F12_lec1-intro.pdf)
+[Introduction (PDF - 14.1MB)](/ans7870/4/4.105/f12/MIT4_105F12_lec1-intro.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Planes, Planes, and Planes (PDF - 9.4MB)]({{< baseurl >}}/resources/mit4_105f12_lec2-planes)
+{{% resource_link "07680657-3ce2-1f99-78ad-fe5d8076d26c" "Planes, Planes, and Planes (PDF - 9.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Composites, Conventions, Axonometrics (PDF - 7.2MB)]({{< baseurl >}}/resources/mit4_105f12_lec3-compos)
+{{% resource_link "6948210c-b219-067c-6a37-aaab0a89f308" "Composites, Conventions, Axonometrics (PDF - 7.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Curvature (PDF - 9.2MB)]({{< baseurl >}}/resources/mit4_105f12_lec4-curv)
+{{% resource_link "cfa59f90-f5ca-b61c-b497-23cf7e655ee6" "Curvature (PDF - 9.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Stereotomy and Developability (PDF - 6.4MB)]({{< baseurl >}}/resources/mit4_105f12_lec5-stereo)
+{{% resource_link "de4a342b-b10e-21d0-6e4e-9e630ec06a14" "Stereotomy and Developability (PDF - 6.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Organic Modeling
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Discretization (PDF - 43.7MB)](/ans7870/4/4.105/f12/MIT4_105F12_lec7-discret.pdf)
+[Discretization (PDF - 43.7MB)](/ans7870/4/4.105/f12/MIT4_105F12_lec7-discret.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +92,7 @@ Organic Modeling
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Presentation and Publication (PDF)]({{< baseurl >}}/resources/mit4_105f12_lec8-pres)
+{{% resource_link a45d912b-9244-93f1-12b2-2352bf53c8cd "Presentation and Publication (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
