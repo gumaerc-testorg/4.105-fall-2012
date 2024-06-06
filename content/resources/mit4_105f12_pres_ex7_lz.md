@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the figure and configure.
 file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/ae3b6b6580de39c7c704deed804d0491_MIT4_105F12_Pres_Ex7_LZ.pdf
+file_size: 3017791
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -3,6 +3,7 @@ content_type: resource
 description: Rendering of discretized units governed by surface tension. Courtesy
   of Austin W. Smith. Used with permission.
 file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/c937ae4f8bd2f372ac33b6e0a4c0eb53_Thumbnail_Ex7_AS.JPG
+file_size: 95212
 file_type: image/jpeg
 image_metadata:
   caption: Rendering of discretized units governed by surface tension.
