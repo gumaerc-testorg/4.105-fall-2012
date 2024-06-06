@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding solid and surface.
 file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/f7cb32dafe33f482739b7e93e6464d04_MIT4_105F12_Pres_Ex5_AS.pdf
+file_size: 529854
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -3,6 +3,7 @@ content_type: resource
 description: Intersecting two geometrically similar volumes as part of a series of
   steps for a drawing. Courtesy of Luisel Zayas-San-Miguel. Used with permission.
 file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/1250eefe34c10e142f20c746e41e5524_Thumbnail_Ex2_LZ.JPG
+file_size: 32703
 file_type: image/jpeg
 image_metadata:
   caption: Intersecting two geometrically similar volumes as part of a series of steps
