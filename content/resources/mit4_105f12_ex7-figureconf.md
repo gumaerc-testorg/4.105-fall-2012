@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding the figure and configure.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/a3783048717e5d923e0ea46b1f6e9277_MIT4_105F12_ex7-figureConf.pdf
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/a3783048717e5d923e0ea46b1f6e9277_MIT4_105F12_ex7-figureConf.pdf
 file_size: 155005
 file_type: application/pdf
 learning_resource_types:

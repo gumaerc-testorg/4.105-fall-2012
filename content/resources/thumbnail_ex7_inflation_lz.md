@@ -2,7 +2,7 @@
 content_type: resource
 description: Model demonstrating inflation of the discretized units based on air pressure.
   Courtesy of Luisel Zayas-San-Miguel. Used with permission.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/4f95c39823922bd4c087dd5dff385713_Thumbnail_Ex7_Inflation_LZ.JPG
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/4f95c39823922bd4c087dd5dff385713_Thumbnail_Ex7_Inflation_LZ.JPG
 file_size: 41492
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource is related to rhino\xAE model: handle."
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/78a221020dc9604e6608d57f2a6b6fd0_ex6-handle.3dm
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/78a221020dc9604e6608d57f2a6b6fd0_ex6-handle.3dm
 file_size: 240124
 file_type: application/octet-stream
 learning_resource_types:
