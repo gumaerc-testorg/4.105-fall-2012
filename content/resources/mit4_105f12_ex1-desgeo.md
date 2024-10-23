@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding descriptive geometry and
   projection.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/0fcabd6b163f5fc90fde67da7e6298c1_MIT4_105F12_ex1-desGeo.pdf
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/0fcabd6b163f5fc90fde67da7e6298c1_MIT4_105F12_ex1-desGeo.pdf
 file_size: 4521791
 file_type: application/pdf
 learning_resource_types:

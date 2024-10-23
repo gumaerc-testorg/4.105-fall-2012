@@ -2,7 +2,7 @@
 content_type: resource
 description: Rendering of inflatable bike saddle, an extension of Exercise 7 and 8.
   Courtesy of Luisel Zayas-San-Miguel. Used with permission.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/0dccc6abea7b74f93bcd24bc178c3e66_Thumbnail_Ex8_LZ.jpg
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/0dccc6abea7b74f93bcd24bc178c3e66_Thumbnail_Ex8_LZ.jpg
 file_size: 45388
 file_type: image/jpeg
 image_metadata:
