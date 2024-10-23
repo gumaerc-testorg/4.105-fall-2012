@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is related to screenshot of figure.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/dea602d76924132bf11cc5fc2b508ebf_ex7-figure.JPG
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/dea602d76924132bf11cc5fc2b508ebf_ex7-figure.JPG
 file_size: 98610
 file_type: image/jpeg
 image_metadata:

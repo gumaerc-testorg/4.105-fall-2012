@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding stereotomy and developability.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/de4a342bb10e21d06e4e9e630ec06a14_MIT4_105F12_lec5-stereo.pdf
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/de4a342bb10e21d06e4e9e630ec06a14_MIT4_105F12_lec5-stereo.pdf
 file_size: 6705687
 file_type: application/pdf
 learning_resource_types:
