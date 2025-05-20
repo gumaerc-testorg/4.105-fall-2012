@@ -2,7 +2,7 @@
 content_type: resource
 description: Drawing of several lines to define a ruled surface. Courtesy of Austin
   W. Smith. Used with permission.
-file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/4ce07adc055746df0f6624a90900eafc_Thumbnail_Ex5_AS.JPG
+file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/4ce07adc055746df0f6624a90900eafc_Thumbnail_Ex5_AS.JPG
 file_size: 45617
 file_type: image/jpeg
 image_metadata:

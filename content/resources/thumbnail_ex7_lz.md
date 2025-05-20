@@ -2,7 +2,7 @@
 content_type: resource
 description: Rendering of a figure with discretized, inflated units. Courtesy of Luisel
   Zayas-San-Miguel. Used with permission.
-file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/ed9ec6666da00ac9b0501e4f8e27110e_Thumbnail_Ex7_LZ.JPG
+file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/ed9ec6666da00ac9b0501e4f8e27110e_Thumbnail_Ex7_LZ.JPG
 file_size: 48991
 file_type: image/jpeg
 image_metadata:

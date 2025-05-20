@@ -2,7 +2,7 @@
 content_type: resource
 description: Rendering of closed and curved surface, an extension of Exercise 7. Courtesy
   of Austin W. Smith. Used with permission.
-file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/6a3fb02a41221ab40367bfb88d6ece34_Thumbnail_Ex8_AS.JPG
+file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/6a3fb02a41221ab40367bfb88d6ece34_Thumbnail_Ex8_AS.JPG
 file_size: 69604
 file_type: image/jpeg
 image_metadata:

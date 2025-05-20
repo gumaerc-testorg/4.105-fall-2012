@@ -2,7 +2,7 @@
 content_type: resource
 description: Drawing of facial application preceding fabrication. Courtesy of Austin
   W. Smith. Used with permission.
-file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/96676f6ca780cf744eff9b2efa031a6f_Thumbnail_Ex6_AS.JPG
+file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/96676f6ca780cf744eff9b2efa031a6f_Thumbnail_Ex6_AS.JPG
 file_size: 54054
 file_type: image/jpeg
 image_metadata:
