@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding planes.
-file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/3a1db94c80d45013e000851d4c3f15f1_MIT4_105F12_Pres_Ex2_LZ.pdf
+file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/3a1db94c80d45013e000851d4c3f15f1_MIT4_105F12_Pres_Ex2_LZ.pdf
 file_size: 261328
 file_type: application/pdf
 learning_resource_types:
