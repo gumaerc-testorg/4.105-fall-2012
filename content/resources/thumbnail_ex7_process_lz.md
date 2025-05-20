@@ -2,7 +2,7 @@
 content_type: resource
 description: SketchUp model demonstrating the construction process and inflatability.
   Courtesy of Luisel Zayas-San-Miguel. Used with permission.
-file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/58e1ce204714c4b14c8b236262c446ad_Thumbnail_Ex7_Process_LZ.JPG
+file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/58e1ce204714c4b14c8b236262c446ad_Thumbnail_Ex7_Process_LZ.JPG
 file_size: 53944
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding projections of oblique planes.
-file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/4f0c9b93cb8bf4114de397661687d20c_MIT4_105F12_ex1-projection.pdf
+file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/4f0c9b93cb8bf4114de397661687d20c_MIT4_105F12_ex1-projection.pdf
 file_size: 507463
 file_type: application/pdf
 learning_resource_types:
