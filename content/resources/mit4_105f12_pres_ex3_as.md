@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding thickened plane + the explosion.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/63723a2cb10818473ac7d6a28eacccd6_MIT4_105F12_Pres_Ex3_AS.pdf
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/63723a2cb10818473ac7d6a28eacccd6_MIT4_105F12_Pres_Ex3_AS.pdf
 file_size: 1013257
 file_type: application/pdf
 learning_resource_types:

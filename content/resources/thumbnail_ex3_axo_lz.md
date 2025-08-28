@@ -2,7 +2,7 @@
 content_type: resource
 description: "Exploded axonometric drawing of a figure. Courtesy of Luisel Zayas-San-Miguel.\
   \ Used with permission.\r\n\r\n"
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/b85b840c672197b202641b0d0cc2ea13_Thumbnail_Ex3_Axo_LZ.JPG
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/b85b840c672197b202641b0d0cc2ea13_Thumbnail_Ex3_Axo_LZ.JPG
 file_size: 47514
 file_type: image/jpeg
 image_metadata:

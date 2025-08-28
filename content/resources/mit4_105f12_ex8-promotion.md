@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding promotion and publication.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/b0641686cd77f8b91fe6b34bce6bbd9b_MIT4_105F12_ex8-promotion.pdf
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/b0641686cd77f8b91fe6b34bce6bbd9b_MIT4_105F12_ex8-promotion.pdf
 file_size: 137906
 file_type: application/pdf
 learning_resource_types:

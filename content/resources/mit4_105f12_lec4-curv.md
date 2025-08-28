@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding curvature.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/cfa59f90f5cab61cb49723cf7e655ee6_MIT4_105F12_lec4-curv.pdf
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/cfa59f90f5cab61cb49723cf7e655ee6_MIT4_105F12_lec4-curv.pdf
 file_size: 9677780
 file_type: application/pdf
 learning_resource_types:
