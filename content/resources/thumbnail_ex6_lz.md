@@ -2,7 +2,7 @@
 content_type: resource
 description: Fabrication of a model of a bike saddle produced by casting. Courtesy
   of Luisel Zayas-San-Miguel. Used with permission.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/1ac2a22cd60d31777145bbef3982dc4d_Thumbnail_Ex6_LZ.jpg
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/1ac2a22cd60d31777145bbef3982dc4d_Thumbnail_Ex6_LZ.jpg
 file_size: 49266
 file_type: image/jpeg
 image_metadata:

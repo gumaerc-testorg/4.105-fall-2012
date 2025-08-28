@@ -2,7 +2,7 @@
 content_type: resource
 description: Model in progress of the drawn figure. Courtesy of Austin W. Smith. Used
   with permission.
-file: /courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/494ccbca456bba1b9756769b6e29f3b0_Thumbnail_Ex3_AS.JPG
+file: /ol-ocw-studio-app/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/494ccbca456bba1b9756769b6e29f3b0_Thumbnail_Ex3_AS.JPG
 file_size: 49216
 file_type: image/jpeg
 image_metadata:
