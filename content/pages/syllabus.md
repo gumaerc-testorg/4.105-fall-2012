@@ -34,4 +34,4 @@ Required Resources
 
 Students will be asked to employ various techniques in modeling and representation. A variety of tools and software are available for the design process, and it is up to the student to elect which is most applicable.
 
-As a general rule, however, students will find themselves using [Rhinoceros{{< sup "®" >}}](http://www.rhino3d.com/) for computer-modeling, and [V-Ray](http://chaosgroup.com/en/2/vrayforrhino.html) for renderings.
+As a general rule, however, students will find themselves using {{% resource_link "3d91f9c3-2efc-452c-8436-9f58553c81e9" "Rhinoceros{{< sup \"®\" >}}" %}} for computer-modeling, and {{% resource_link "0d62bd8a-b555-4b8d-9393-da20c27bd687" "V-Ray" %}} for renderings.
