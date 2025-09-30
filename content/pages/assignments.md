@@ -79,13 +79,13 @@ Example of a predetermined figure provided to students:
 
 Students interested in pursuing a final paper for this exercise are encouraged to find a template to use in structuring their papers. Such templates change year-to-year and vary by organization and conference. Templates may be found through the following websites:
 
-[Association for Computer Aided Design in Architecture (ACADIA)](http://acadia.org/)
+{{% resource_link "3b3ebd26-fae4-427e-b386-d4c2ad8be3ed" "Association for Computer Aided Design in Architecture (ACADIA)" %}}
 
-[Association of Collegiate Schools of Architecture (ASCA)](http://acsa-arch.org/)
+{{% resource_link "46387b95-e60c-4136-b324-260b43dafe6f" "Association of Collegiate Schools of Architecture (ASCA)" %}}
 
-[Association for Computer-Aided Architectural Design Research in Asia (CAADRIA)](http://www.caadria.org/)
+{{% resource_link "118ed7fd-ebcc-4ad8-a802-fb848db3ca8b" "Association for Computer-Aided Architectural Design Research in Asia (CAADRIA)" %}}
 
-[International Conference on Structures and Architecture (ICSA)](http://www.icsa2013.arquitectura.uminho.pt/)
+{{% resource_link "326326e3-88da-48c0-a9cf-cb2edba8ffcb" "International Conference on Structures and Architecture (ICSA)" %}}
 
 For a sample paper, refer to: Clifford, Brandon. "Thick Funicular: Particle Spring Systems for Variable-Depth Form-Responding Compression-Only Structures." *Change Architecture Education Practices: 2012 ACSA International Proceedings*. ACSA Press. ISBN: 9780935502831.
 
